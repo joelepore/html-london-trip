@@ -8,4 +8,7 @@ Attenzione: per i nomi dei file usate sempre lettere minuscole e trattini al pos
 3. All’interno della cartella html-london-trip, create una sottocartella img nella quale inserirete le immagini necessarie.
 
 ## Svolgimento
-Per questo esercizio decido di scrivere HTML con approccio top-down, quindi creo prima lo scheletro della pagina con tutti i che servono e li lascio vuoti.
+Per questo esercizio decido di scrivere HTML con approccio top-down, quindi: 
+
+1. Creo prima lo scheletro della pagina con tutti i che servono e li lascio vuoti.
+2. Riempio i tag principali con i veri e propri contenuti (tabelle, liste, immagini)
