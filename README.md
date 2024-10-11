@@ -1,4 +1,4 @@
-Esercizio 2
+## Esercizio 2
 
 Riproducete il layout dell’immagine allegata utilizzando i tag che abbiamo visto stamattina aiutandovi con le slide di stamattina.
 
@@ -6,3 +6,6 @@ Riproducete il layout dell’immagine allegata utilizzando i tag che abbiamo vis
 2. All’interno della cartella html-london-trip, create il file index.html (sarà la prima pagina ad aprirsi in un sito).
 Attenzione: per i nomi dei file usate sempre lettere minuscole e trattini al posto degli spazi :)
 3. All’interno della cartella html-london-trip, create una sottocartella img nella quale inserirete le immagini necessarie.
+
+## Svolgimento
+Per questo esercizio decido di scrivere HTML con approccio top-down, quindi creo prima lo scheletro della pagina con tutti i che servono e li lascio vuoti.
